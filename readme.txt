@@ -2,7 +2,7 @@
 Contributors: Atul Kumar Pandey
 Tags: query string remover, remove, query, strings, static, resources, pingdom, gtmetrix, yslow, pagespeed
 Requires at least: 3.5
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,7 +14,9 @@ Query Strings Remover removes query strings from your static resources like CSS 
 
 After installing Query Strings Remover sure empty you cached resources in order to see the magic of this plugin.
 
-If you have any problem and want to contribute any suggetion please contact us on www.gethow.org site.
+If you have any problem and want to contribute any suggetion please contact us on http://atulhost.com/query-strings-remover link.
+
+Contact Author at http://atulhost.com for more details.
 
 == Installation ==
 1. Upload the `query-strings-remover` folder to the `/wp-content/plugins/` directory
